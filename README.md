@@ -1,9 +1,10 @@
-**Social Media Post API**
+# Social Media Post API
 
-**Overview**
+## Overview
+
 This API provides a platform for users to save their details and create posts. Built using Spring Boot, Java, and tested with Postman, it supports CRUD (Create, Read, Update, Delete) operations for both user management and post creation.
 
-**Features**
+## Features
 
 _- User Management:_
 1. Create user account
@@ -17,20 +18,20 @@ _- Post Management:_
 3. Update existing post
 4. Delete post
 
-**Request/Response Formats**
+## Request/Response Formats
 1. Request: JSON
 2. Response: JSON
 
-**Dependencies**
+## Dependencies
 1. Spring Boot
 2. Java
 3. Postman (for testing)
    
-**Setup**
+## Setup
 1. Clone the repository
 2. Run the Spring Boot application using mvn spring-boot:run (or your preferred method)
 3. Use Postman to test the API endpoints
    
-**Contributing**
+## Contributing
 
 Contributions are welcome! Please submit a pull request with your changes.
